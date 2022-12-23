@@ -29,4 +29,4 @@ Please see [this document where I share the parameters (prompt, sampler, seed, e
 
 ![Modification example](https://huggingface.co/wavymulder/portraitplus/resolve/main/imgs/page2.jpg)
 
-![Batch example]( LINK )
+![Batch example](https://huggingface.co/wavymulder/portraitplus/resolve/main/imgs/batchgrid.jpg)
