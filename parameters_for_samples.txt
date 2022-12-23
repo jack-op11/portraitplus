@@ -1,0 +1,80 @@
+In order (from left to right, top to bottom):
+
+portrait+ style photograph of Selena Gomez
+Negative prompt: blender
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 262145884, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of Heath Ledger
+Negative prompt: blender illustration hdr
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1955757401, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of Emma Watson as Hermione Granger
+Negative prompt: blender illustration hdr
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2989175071, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of young Daniel Radcliffe as Harry Potter
+Negative prompt: blender illustration hdr
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4013224728, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style girl Princess Zelda
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3620776300, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+anime portrait+ style shonen protagonist
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2525289016, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of a witch cute girl
+Negative prompt: blender illustration painted blur haze cosplay
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2361115831, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of young Carrie Fisher as Princess Leia
+Negative prompt: blender illustration hdr cosplay
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3924291730, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style girl astronaut flat illustration
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1978186121, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of John Boyega as a stormtrooper
+Negative prompt: blender illustration hdr cosplay helmet
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4203393211, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of a spacepilot girl
+Negative prompt: painted illustration blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 957133394, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+anime portrait+ style royal queen
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1882413796, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of a paladin knight man
+Negative prompt: painted illustration blender
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2073715162, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of young Natalie Portman as Padme Amidala
+Negative prompt: blender illustration hdr cosplay
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2191434366, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style a beautiful sorceress
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2212513167, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of a cyberpunk girl
+Negative prompt: painted illustration blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3252607763, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of a rock star man
+Negative prompt: painted illustration blender
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1503681581, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style a beautiful sorceress
+Negative prompt: blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1428179101, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of Lionel Messi wearing a tuxedo
+Negative prompt: blender illustration hdr painted
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1293913057, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
+
+portrait+ style photograph of a cyberpunk man, cyborg
+Negative prompt: painted blender illustration blur haze
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3926729433, Size: 768x768, Model hash: 585879fc, Denoising strength: 0.3, First pass size: 0x0
