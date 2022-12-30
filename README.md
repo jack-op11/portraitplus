@@ -26,10 +26,9 @@ Portrait+ works best at a 1:1 aspect ratio, though I've had success with tall as
 
 Please see [this document where I share the parameters (prompt, sampler, seed, etc.) used for all example images above.](https://huggingface.co/wavymulder/portraitplus/resolve/main/parameters_for_samples.txt)
 
-### Gradio
+We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run portraitplus:
+[![Open In Spaces](https://camo.githubusercontent.com/00380c35e60d6b04be65d3d94a58332be5cc93779f630bcdfc18ab9a3a7d3388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/wavymulder/portraitplus)
 
-We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Portrait+ :
-[Open In Spaces](https://huggingface.co/spaces/wavymulder/portraitplus)
 
 ![Modification example](https://huggingface.co/wavymulder/portraitplus/resolve/main/imgs/page2.jpg)
 
