@@ -28,7 +28,7 @@ Please see [this document where I share the parameters (prompt, sampler, seed, e
 
 ### Gradio
 
-We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run portraitplus:
+We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Portrait+ :
 [Open In Spaces](https://huggingface.co/spaces/wavymulder/portraitplus)
 
 ![Modification example](https://huggingface.co/wavymulder/portraitplus/resolve/main/imgs/page2.jpg)
